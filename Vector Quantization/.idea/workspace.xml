@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48588579-b07d-4659-b565-a878f44047c8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/VectorQuantization.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3310">
+              <caret line="24" column="133" selection-start-line="24" selection-start-column="133" selection-end-line="24" selection-end-column="133" />
+              <folding>
+                <element signature="method#CreateBlocks#0;class#VectorQuantization#0" />
+                <element signature="method#getMean#0;class#VectorQuantization#0" />
+                <element signature="method#minDistance#0;class#VectorQuantization#0" />
+                <element signature="method#rearrange#0;class#VectorQuantization#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Vector</find>
+      <find>VectorQuantization</find>
+      <find>vectorWidth</find>
+      <find>originalWidth</find>
+      <find>scaledHeight</find>
+      <find>scaledImage</find>
+      <find>height</find>
+      <find>OldH</find>
+      <find>NEoldW</find>
+      <find>vectorAverage</find>
+      <find>Quantized</find>
+      <find>EuclidDistance</find>
+      <find>Level</find>
+      <find>smallestIndex</find>
+      <find>objectOutputStream</find>
+      <find>vq</find>
+      <find>WriteHelperFile</find>
+      <find>Optimize</find>
+      <find>VectorTana</find>
+      <find>Quantize</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>VectorDr</replace>
+      <replace>VectorTany</replace>
+      <replace>BlockW</replace>
+      <replace>OldW</replace>
+      <replace>NEWHeight</replace>
+      <replace>SquaredImage</replace>
+      <replace>oldH</replace>
+      <replace>NEWidth</replace>
+      <replace>getMean</replace>
+      <replace>QBlocks</replace>
+      <replace>minDistance</replace>
+      <replace>L</replace>
+      <replace>idx</replace>
+      <replace>HelperFile</replace>
+      <replace>WriteToFile</replace>
+      <replace>rearrange</replace>
+      <replace>VectorQuantization</replace>
+      <replace>CreateQVectors</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Covert.java" />
+        <option value="$USER_HOME$/Desktop/Vector-Quantization-master/src/Vector.java" />
+        <option value="$USER_HOME$/Desktop/Vector-Quantization-LBG-Image-Compression-master/src/VectorQuantization.java" />
+        <option value="$PROJECT_DIR$/src/Vector.java" />
+        <option value="$PROJECT_DIR$/src/Appform.java" />
+        <option value="$PROJECT_DIR$/src/ReadWriteImage.java" />
+        <option value="$PROJECT_DIR$/src/ImageRW.java" />
+        <option value="$PROJECT_DIR$/src/VectorTany.java" />
+        <option value="$PROJECT_DIR$/src/VectorTana.java" />
+        <option value="$PROJECT_DIR$/src/VectorQuantization.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="970" />
+    <option name="y" value="5" />
+    <option name="width" value="980" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Vector Quantization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vector Quantization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vector Quantization" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vector Quantization" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560427826625" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JPEG" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.VectorQuantization">
+    <configuration name="Appform" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Appform" />
+      <module name="Vector Quantization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadWriteImage" />
+      <module name="Vector Quantization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vector" />
+      <module name="Vector Quantization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorQuantization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VectorQuantization" />
+      <module name="Vector Quantization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorTana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VectorTana" />
+      <module name="Vector Quantization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VectorQuantization" />
+        <item itemvalue="Application.VectorTana" />
+        <item itemvalue="Application.Appform" />
+        <item itemvalue="Application.Vector" />
+        <item itemvalue="Application.ReadWriteImage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48588579-b07d-4659-b565-a878f44047c8" name="Default Changelist" comment="" />
+      <created>1545078939373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545078939373</updated>
+      <workItem from="1545078943470" duration="30035000" />
+      <workItem from="1560413474940" duration="2372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32407000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49712092" visible="true" weight="0.11677852" />
+      <window_info id="Structure" order="6" sideWeight="0.5028791" side_tool="true" visible="true" weight="0.11677852" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26203966" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.desktop/javax/imageio/ImageIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="1307" selection-start-line="1307" selection-end-line="1307" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Vector-Quantization-master/src/vectorquantization/VectorQuantization.java" />
+    <entry file="file://$USER_HOME$/Desktop/Vector-Quantization-master/src/Vector.java" />
+    <entry file="file://$USER_HOME$/Desktop/Vector-Quantization-LBG-Image-Compression-master/src/VectorQuantization.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.desktop/java/awt/image/BufferedImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="320" column="26" selection-start-line="320" selection-start-column="26" selection-end-line="320" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ImageRW.java" />
+    <entry file="file://$PROJECT_DIR$/src/ReadWriteImage.java" />
+    <entry file="file://$PROJECT_DIR$/src/Appform.form" />
+    <entry file="file://$PROJECT_DIR$/src/Appform.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="495" selection-start-line="495" selection-end-line="495" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11/lib/src.zip!/java.base/java/lang/ClassNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="48" column="67" lean-forward="true" selection-start-line="48" selection-start-column="67" selection-end-line="48" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VectorTana.java" />
+    <entry file="file://$USER_HOME$/Desktop/VectorTana.java" />
+    <entry file="file://$PROJECT_DIR$/src/Vector.java" />
+    <entry file="file://$PROJECT_DIR$/Vector Quantization.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JPEG/JPEG.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestDCT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" lean-forward="true" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VectorQuantization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3310">
+          <caret line="24" column="133" selection-start-line="24" selection-start-column="133" selection-end-line="24" selection-end-column="133" />
+          <folding>
+            <element signature="method#CreateBlocks#0;class#VectorQuantization#0" />
+            <element signature="method#getMean#0;class#VectorQuantization#0" />
+            <element signature="method#minDistance#0;class#VectorQuantization#0" />
+            <element signature="method#rearrange#0;class#VectorQuantization#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
